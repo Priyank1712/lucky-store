@@ -26,7 +26,7 @@ const Language = styled.span`
 `;
 
 const SearchContainer = styled.div`
-  border: 0.5px solid lightgrey;
+  border: 0.5px solid lightgray;
   display: flex;
   align-items: center;
   margin-left: 25px;
@@ -68,7 +68,7 @@ const Navbar = () => {
           <Language>EN</Language>
           <SearchContainer>
             <Input />
-            <Search style={{ color: 'grey', fontSize: 16, }} />
+            <Search style={{ color: 'gray', fontSize: 16, }} />
           </SearchContainer>
         </Left>
         <Center>
