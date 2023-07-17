@@ -39,3 +39,38 @@ export const categories = [
     title: "LIGHT JACKETS",
   },
 ];
+
+export const popularProducts = [
+  {
+    id:1,
+    img:"https://d3o2e4jr3mxnm3.cloudfront.net/Mens-Jake-Guitar-Vintage-Crusher-Tee_68382_1_lg.png",
+  },
+  {
+    id:2,
+    img:"https://m.media-amazon.com/images/I/61syZ6rJ0PL._AC_SY879_.jpg",
+  },
+  {
+    id:3,
+    img:"https://www.prada.com/content/dam/pradanux_products/U/UCS/UCS319/1YOTF010O/UCS319_1YOT_F010O_S_182_SLF.png",
+  },
+  {
+    id:4,
+    img:"https://www.prada.com/content/dam/pradabkg_products/2/292/292101/1WQ8F0F24/292101_1WQ8_F0F24_S_231_SLF.jpg",
+  },
+  {
+    id:5,
+    img:"https://images.ctfassets.net/5gvckmvm9289/3BlDoZxSSjqAvv1jBJP7TH/65f9a95484117730ace42abf64e89572/Noissue-x-Creatsy-Tote-Bag-Mockup-Bundle-_4_-2.png",
+  },
+  {
+    id:6,
+    img:"https://d3o2e4jr3mxnm3.cloudfront.net/Rocket-Vintage-Chill-Cap_66374_1_lg.png",
+  },
+  {
+    id:7,
+    img:"https://www.pngarts.com/files/3/Clothing-Download-Transparent-PNG-Image.png",
+  },
+  {
+    id:8,
+    img:"https://www.pngarts.com/files/3/Women-Jacket-PNG-High-Quality-Image.png",
+  },
+];
