@@ -1,7 +1,7 @@
 export const sliderItems = [
   {
     id: 1,
-    img: "https://img.freepik.com/free-photo/beautiful-teenage-girl-joyfully-dancing-with-pink-shopping-bags-her-hands_1163-1513.jpg?t=st=1688546010~exp=1688546610~hmac=c455375bbf802770f7520ca645aba311a0b3bfe697b2e3ef40b9e1755d3b6c5a",
+    img: "https://printmagic.net.au/wp-content/uploads/2021/02/Shopping-Girl2-e1612179006739.png",
     title: "SUMMER SALE",
     desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
     bg: "f5fafd",
@@ -55,7 +55,7 @@ export const popularProducts = [
   },
   {
     id:4,
-    img:"https://www.prada.com/content/dam/pradabkg_products/2/292/292101/1WQ8F0F24/292101_1WQ8_F0F24_S_231_SLF.jpg",
+    img:"https://purepng.com/public/uploads/large/purepng.com-girl-dressclothinggirl-dressfashion-girl-women-dress-cloth-apparel-631522326876jal6q.png",
   },
   {
     id:5,
